@@ -1,1 +1,1 @@
-About Vagrant.
+About Vagrant
